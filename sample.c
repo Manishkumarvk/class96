@@ -2,5 +2,7 @@
 #include<stdlib.h>
 int main(){
 printf("hello world");
-return 0;}
+printf("this is sit");
+return 0;
+}
 
